@@ -41,8 +41,6 @@ server ↔ client 통신 프로그램  재활용 가능
 프로그램 확장성 예) 빈대(bed-bug) 탐지 및 사진 전송
 
 
-구 성 도
-
 # 구성도
 <img src="KakaoTalk_20231114_105324886.png"  width="800" height="400">
 <img src="캡처.PNG"  width="800" height="400">
