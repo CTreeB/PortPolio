@@ -36,5 +36,5 @@
 	일시정지선 통과후 차선검출 및 정상 주행을 위해 카메라 DOWN
 
 # 구성도
-<img src="KakaoTalk_20231114_105324886.png"  width="400" height="400">
-<img src="캡처.PNG"  width="400" height="400">
+<img src="KakaoTalk_20231114_105324886.png"  width="500" height="400">
+<img src="캡처.PNG"  width="800" height="400">
